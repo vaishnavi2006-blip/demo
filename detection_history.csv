@@ -1,0 +1,21 @@
+Timestamp,Type,FileName,Prediction,Confidence (%),Severity,Processing Time (s)
+12-11-2026 10:29:41,Video,Hyderabad-Two-miraculously-escape-after-car-flips-in-collision (1).mp4,Accident,99.98,Severity3 (Severe),-
+12-11-2026 10:27:20,Image,IMG_20261111_142657.png,Accident,53.43,Severity1 (Minor),1.51
+12-11-2026 10:26:25,Image,IMG_20261111_142657.png,Accident,53.43,Severity1 (Minor),6.75
+11-11-2026 22:03:44,Image,Traffic Accident Scene Collage - Copy.png,Accident,71.93,Severity1 (Minor),0.46
+11-11-2026 22:01:47,Image,IMG_20261111_142657.png,Accident,53.43,Severity1 (Minor),0.71
+11-11-2026 22:01:21,Image,IMG_20261111_142602.png,NonAccident,64.66,No Accident,0.69
+11-11-2026 22:00:59,Image,Traffic Accident Scene Collage.png,Accident,87.82,Severity1 (Minor),1.65
+11-11-2026 21:45:36,Image,image-auto-accident-involving-two-cars.jpg,NonAccident,72.56,No Accident,1.37
+11-11-2026 21:37:31,Video,Hyderabad-Two-miraculously-escape-after-car-flips-in-collision (1).mp4,Accident,99.98,Severity3 (Severe),-
+11-11-2026 21:35:10,Image,Traffic Accident Scene Collage.png,Accident,99.97,Severity1 (Minor),2.37
+11-11-2026 21:23:28,Image,Traffic Accident Scene Collage.png,Accident,99.97,Severity1 (Minor),11.14
+27-07-2026 22:32:43,Video,istockphoto-948679414-640_adpp_is.mp4,Accident,77.44,Severity1 (Minor),-
+27-07-2026 22:31:57,Image,595.jpg,Accident,70.25,Severity1 (Minor),1.21
+27-07-2026 22:28:10,Image,595.jpg,Accident,70.25,Severity1 (Minor),1.25
+27-07-2026 22:27:29,Image,a125.jpg,NonAccident,99.08,No Accident,8.5
+27-07-2026 14:50:08,Image,595.jpg,Accident,70.25,Severity1 (Minor),1.32
+27-07-2026 14:49:29,Image,9412.jpg,Accident,87.62,Severity3 (Severe),1.29
+27-07-2026 14:49:02,Image,29171.jpg,Accident,98.22,Severity2 (Moderate),1.36
+27-07-2026 14:48:34,Image,a125.jpg,NonAccident,99.08,No Accident,1.33
+27-07-2026 14:47:41,Video,istockphoto-948679414-640_adpp_is.mp4,Accident,77.44,Severity1 (Minor),-
